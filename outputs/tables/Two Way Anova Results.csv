@@ -1,0 +1,33 @@
+Variable,Source,Sum Sq,df,F-Value,p-Value,Significant (α<0.05)
+Plant Height (cm),C(Fertilizer),3092.8287821283625,2.0,48.50208178477797,7.284969813457473e-16,Significant
+Plant Height (cm),C(LightExposure),18697.924477661185,2.0,293.22291213192864,5.018729291031764e-45,Significant
+Plant Height (cm),C(Fertilizer):C(LightExposure),1747.4805410864485,4.0,13.702091207059473,4.110093510139133e-09,Significant
+Plant Height (cm),Residual,3539.064532730961,111.0, , ,-
+Leaf Area (cm²),C(Fertilizer),19516.697898352468,2.0,35.59139974809959,1.1409489508803065e-12,Significant
+Leaf Area (cm²),C(LightExposure),177708.33711395878,2.0,324.07574773839565,4.541467832888855e-47,Significant
+Leaf Area (cm²),C(Fertilizer):C(LightExposure),28551.538746890925,4.0,26.03384123319685,3.1258770411949704e-15,Significant
+Leaf Area (cm²),Residual,30433.66490289268,111.0, , ,-
+Chlorophyll Content (SPAD units),C(Fertilizer),772.906707131586,2.0,18.855267140367644,8.921935698086497e-08,Significant
+Chlorophyll Content (SPAD units),C(LightExposure),7926.072475519207,2.0,193.35867126119587,6.8058345464456405e-37,Significant
+Chlorophyll Content (SPAD units),C(Fertilizer):C(LightExposure),846.7818932574737,4.0,10.32873609432769,3.7914409980424866e-07,Significant
+Chlorophyll Content (SPAD units),Residual,2275.0312645512918,111.0, , ,-
+Root Length (cm),C(Fertilizer),293.0384202981446,2.0,29.405138647598697,5.654899913468965e-11,Significant
+Root Length (cm),C(LightExposure),2342.7773039412077,2.0,235.0875744305084,1.2484893759896942e-40,Significant
+Root Length (cm),C(Fertilizer):C(LightExposure),390.8415100749951,4.0,19.609627947930964,3.131765219673943e-12,Significant
+Root Length (cm),Residual,553.088102098616,111.0, , ,-
+Biomass (g),C(Fertilizer),93.05501042255592,2.0,28.563739481252043,9.828277824669189e-11,Significant
+Biomass (g),C(LightExposure),653.1351610146947,2.0,200.48337537714417,1.4207177579248467e-37,Significant
+Biomass (g),C(Fertilizer):C(LightExposure),87.42178780677378,4.0,13.417295643506282,5.9458746345310266e-09,Significant
+Biomass (g),Residual,180.80801646582847,111.0, , ,-
+Flower Count (number),C(Fertilizer),145.19557620228784,2.0,22.610452492465026,5.79298674048003e-09,Significant
+Flower Count (number),C(LightExposure),1705.963802203717,2.0,265.65970198604685,4.844427898509863e-43,Significant
+Flower Count (number),C(Fertilizer):C(LightExposure),170.15415913355758,4.0,13.24855285578603,7.4079800184650315e-09,Significant
+Flower Count (number),Residual,356.3995228274373,111.0, , ,-
+Seed Yield (g),C(Fertilizer),20.10242326909592,2.0,28.919339053483647,7.775574227079645e-11,Significant
+Seed Yield (g),C(LightExposure),193.0379161943128,2.0,277.70427842813797,6.278038453273596e-44,Significant
+Seed Yield (g),C(Fertilizer):C(LightExposure),16.96483723839386,4.0,12.202804445932399,2.9465951620851313e-08,Significant
+Seed Yield (g),Residual,38.57918361728351,111.0, , ,-
+Stomatal Conductance (mmol/m²/s),C(Fertilizer),35092.48214271382,2.0,28.43078137991474,1.073075506170358e-10,Significant
+Stomatal Conductance (mmol/m²/s),C(LightExposure),249119.25857913247,2.0,201.8282761927777,1.062193691121153e-37,Significant
+Stomatal Conductance (mmol/m²/s),C(Fertilizer):C(LightExposure),24798.727294050957,4.0,10.04555892242115,5.629186398701898e-07,Significant
+Stomatal Conductance (mmol/m²/s),Residual,68504.36971445833,111.0, , ,-

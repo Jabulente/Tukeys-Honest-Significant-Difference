@@ -1,0 +1,25 @@
+Factor,Variable,Group1,Group2,Mean Diff.,P-Value,Lower CI,Upper CI,Reject Null
+Fertilizer,Plant Height (cm),Control,Organic,11.0602,0.0022,3.4577,18.6627,True
+Fertilizer,Plant Height (cm),Control,Synthetic,7.283,0.0613,-0.2706,14.8367,False
+Fertilizer,Plant Height (cm),Organic,Synthetic,-3.7771,0.472,-11.4258,3.8716,False
+Fertilizer,Leaf Area (cm²),Control,Organic,26.4968,0.0258,2.614,50.3796,True
+Fertilizer,Leaf Area (cm²),Control,Synthetic,16.6021,0.2247,-7.1272,40.3314,False
+Fertilizer,Leaf Area (cm²),Organic,Synthetic,-9.8947,0.5925,-33.9226,14.1332,False
+Fertilizer,Chlorophyll Content (SPAD units),Control,Organic,5.0944,0.0538,-0.0653,10.2542,False
+Fertilizer,Chlorophyll Content (SPAD units),Control,Synthetic,1.8392,0.6717,-3.2874,6.9658,False
+Fertilizer,Chlorophyll Content (SPAD units),Organic,Synthetic,-3.2552,0.3001,-8.4464,1.9359,False
+Fertilizer,Root Length (cm),Control,Organic,3.1835,0.0224,0.3692,5.9978,True
+Fertilizer,Root Length (cm),Control,Synthetic,2.5582,0.0803,-0.238,5.3544,False
+Fertilizer,Root Length (cm),Organic,Synthetic,-0.6253,0.8597,-3.4567,2.2062,False
+Fertilizer,Biomass (g),Control,Organic,1.6489,0.0262,0.1588,3.1389,True
+Fertilizer,Biomass (g),Control,Synthetic,1.5714,0.0347,0.0909,3.0519,True
+Fertilizer,Biomass (g),Organic,Synthetic,-0.0775,0.9917,-1.5766,1.4217,False
+Fertilizer,Flower Count (number),Control,Organic,2.236,0.0614,-0.0834,4.5555,False
+Fertilizer,Flower Count (number),Control,Synthetic,0.9874,0.5676,-1.3172,3.292,False
+Fertilizer,Flower Count (number),Organic,Synthetic,-1.2486,0.4148,-3.5822,1.085,False
+Fertilizer,Seed Yield (g),Control,Organic,0.7299,0.069,-0.0441,1.5039,False
+Fertilizer,Seed Yield (g),Control,Synthetic,0.7508,0.0572,-0.0182,1.5198,False
+Fertilizer,Seed Yield (g),Organic,Synthetic,0.021,0.9978,-0.7577,0.7996,False
+Fertilizer,Stomatal Conductance (mmol/m²/s),Control,Organic,35.3627,0.0115,6.6368,64.0886,True
+Fertilizer,Stomatal Conductance (mmol/m²/s),Control,Synthetic,26.4322,0.0756,-2.1091,54.9734,False
+Fertilizer,Stomatal Conductance (mmol/m²/s),Organic,Synthetic,-8.9305,0.7441,-37.8309,19.9699,False
