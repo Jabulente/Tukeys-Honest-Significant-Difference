@@ -71,9 +71,7 @@ This project was built in **Python** and demonstrates proficiency with the follo
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/ukey-hsd-group-differences.git
-cd ukey-hsd-group-differences
-pip install -r requirements.txt
+git clone https://github.com/Jabulente/06---Tukey-s-HSD-for-Pairwise-Group-Comparisons.git
 ```
 
 ### 🔹 Usage
@@ -87,7 +85,7 @@ python analysis.py
 Or open the notebook:
 
 ```bash
-jupyter notebook ukey_hsd_analysis.ipynb
+jupyter notebook tukey_hsd_analysis.ipynb
 ```
 
 
@@ -108,13 +106,16 @@ This project is licensed under the **MIT License** – you’re free to use, mod
 
 
 ## 📬 Contact
+---
 
-👤 **Author**: \[Your Name]
-📧 Email: [your.email@example.com](mailto:your.email@example.com)
-🔗 LinkedIn: \[Your LinkedIn Profile]
-🐙 GitHub: \[Your GitHub Profile]
+This analysis was performed by **Jabulente**, a passionate and dedicated data analyst with a strong commitment to using data to drive meaningful insights and solutions. For inquiries, collaborations, or further discussions, please feel free to reach out via.  
 
+----
 
-✨ *This project is part of my professional data analysis portfolio, demonstrating expertise in statistical hypothesis testing, post-hoc analysis, and visualization using Python.*
+<div align="center">  
+    
+[![GitHub](https://img.shields.io/badge/GitHub-Jabulente-black?logo=github)](https://github.com/Jabulente)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jabulente-blue?logo=linkedin)](https://linkedin.com/in/jabulente-208019349)  [![Email](https://img.shields.io/badge/Email-jabulente@hotmail.com-red?logo=gmail)](mailto:Jabulente@hotmail.com)  
 
---
+</div>
+
+✨ *This project is part of my professional data analysis , demonstrating expertise in statistical hypothesis testing, post-hoc analysis, and visualization using Python.*
